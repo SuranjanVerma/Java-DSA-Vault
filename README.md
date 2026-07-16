@@ -10,11 +10,13 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0004-median-of-two-sorted-arrays](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,4 +38,12 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
