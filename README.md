@@ -10,17 +10,20 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0004-median-of-two-sorted-arrays](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +38,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -42,6 +46,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -55,4 +60,8 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
