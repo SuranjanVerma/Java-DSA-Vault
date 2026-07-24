@@ -3,7 +3,7 @@ class Solution {
        int even_count = 0;
 
        for(int num : nums){
-        int digits = ( (int) Math.log10(num) + 1) % 10; 
+        int digits = (int) Math.log10(num) + 1; 
         if(digits % 2 == 0){
             even_count++;
         }
