@@ -9,6 +9,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0001-two-sum](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
@@ -78,6 +79,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
