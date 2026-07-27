@@ -56,6 +56,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0009-palindrome-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -83,4 +84,16 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0046-permutations](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
