@@ -1,17 +1,19 @@
 class Solution {
 
-    public void getAllSubset(int[] nums , List<Integer> ans, int idx, List<List<Integer>> allSubset){
+    public void getAllSubset(int[] nums , List<Integer> ans, int i, List<List<Integer>> allSubset){
 
-        if(idx >= nums.length){
+        if(i == nums.length){
             allSubset.add(new ArrayList<> (ans) );
             return;
         }
 
-        ans.add(nums[idx]);
-        getAllSubset(nums, ans, idx+1, allSubset);
+        //Include
+        ans.add(nums[i]);
+        getAllSubset(nums, ans, i+1, allSubset);
 
+        //Exclude
         ans.remove(ans.size()-1);
-        getAllSubset(nums, ans, idx+1, allSubset);
+        getAllSubset(nums, ans, i+1, allSubset);
         
     }
     public List<List<Integer>> subsets(int[] nums) {
