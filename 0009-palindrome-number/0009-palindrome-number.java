@@ -10,6 +10,9 @@ class Solution {
         return rev;
     }
     public boolean isPalindrome(int x) {
+        if(x < 0){
+            return false;
+        }
         if(reverse(x) == x){
             return true;
         }
