@@ -9,6 +9,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0001-two-sum](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0704-binary-search) |
@@ -70,5 +71,10 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
