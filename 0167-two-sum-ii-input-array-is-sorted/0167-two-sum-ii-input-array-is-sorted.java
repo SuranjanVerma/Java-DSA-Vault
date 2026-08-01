@@ -16,6 +16,6 @@ class Solution {
                 left++;
             }
         }
-        return new int[]{};
+        return new int[]{-1,-1};
     }
 }
