@@ -12,6 +12,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0046-permutations](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0704-binary-search) |
@@ -29,6 +30,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -41,6 +43,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | ------- |
 | [0027-remove-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
