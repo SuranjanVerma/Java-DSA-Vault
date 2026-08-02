@@ -11,6 +11,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0015-3sum](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -45,11 +46,13 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0015-3sum](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 ## Counting
