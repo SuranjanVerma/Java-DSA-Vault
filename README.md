@@ -17,6 +17,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
@@ -48,6 +49,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
