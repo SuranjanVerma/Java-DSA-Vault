@@ -6,10 +6,10 @@ class Solution {
             int digit = x % 10;
             x = x/10;
 
-            if(rev > Integer.MAX_VALUE / 10){
+            if(rev > (Integer.MAX_VALUE) / 10){
                 return 0;
             }
-            if(rev < Integer.MIN_VALUE / 10){
+            if(rev < (Integer.MIN_VALUE) / 10){
                 return 0;
             }
 
