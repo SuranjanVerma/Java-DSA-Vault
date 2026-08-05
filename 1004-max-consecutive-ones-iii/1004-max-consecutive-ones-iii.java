@@ -4,7 +4,6 @@ class Solution {
         int n = nums.length;
         int left = 0;
         int zeroCount = 0;
-        int maxOne = 0;
 
         for(int right=0; right<n; right++){
 
@@ -18,8 +17,7 @@ class Solution {
                 }
                 left++;
             }
-            maxOne = Math.max(maxOne, right-left+1);
         }
-        return maxOne;
+        return n - left;
     }
 }
