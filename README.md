@@ -71,6 +71,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
