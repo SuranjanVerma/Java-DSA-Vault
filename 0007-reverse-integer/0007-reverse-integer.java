@@ -4,7 +4,6 @@ class Solution {
 
         while(x!=0){
             int digit = x % 10;
-            x = x/10;
 
             if(rev > (Integer.MAX_VALUE) / 10){
                 return 0;
@@ -14,6 +13,8 @@ class Solution {
             }
 
             rev = rev*10 + digit;
+
+            x = x/10;
             
         }
         
