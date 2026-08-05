@@ -22,6 +22,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0283-move-zeroes](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -39,6 +40,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,4 +127,12 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
