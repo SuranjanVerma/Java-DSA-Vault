@@ -38,6 +38,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0704-binary-search) |
@@ -76,6 +77,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0007-reverse-integer](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -138,4 +140,8 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
