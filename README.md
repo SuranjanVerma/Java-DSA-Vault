@@ -22,6 +22,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -33,6 +34,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0012-integer-to-roman](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -139,6 +141,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
 ## Newton's Method
 |  |
