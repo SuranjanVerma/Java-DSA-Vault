@@ -32,6 +32,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | ------- |
 | [0001-two-sum](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0560-subarray-sum-equals-k) |
@@ -79,6 +80,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0007-reverse-integer](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0509-fibonacci-number) |
@@ -92,6 +94,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
