@@ -27,6 +27,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0704-binary-search](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0560-subarray-sum-equals-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -143,6 +145,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
