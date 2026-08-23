@@ -23,6 +23,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0283-move-zeroes](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -140,6 +141,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
