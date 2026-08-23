@@ -19,6 +19,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0090-subsets-ii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0485-max-consecutive-ones) |
@@ -46,6 +47,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0004-median-of-two-sorted-arrays](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
@@ -143,12 +145,14 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/1004-max-consecutive-ones-iii) |
 ## Newton's Method
