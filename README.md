@@ -66,6 +66,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -102,6 +103,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0013-roman-to-integer](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0151-reverse-words-in-a-string) |
 ## String Matching
 |  |
 | ------- |
