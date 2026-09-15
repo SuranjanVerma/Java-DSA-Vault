@@ -38,6 +38,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0013-roman-to-integer](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/2965-find-missing-and-repeated-values) |
@@ -81,6 +82,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 | [0058-length-of-last-word](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -164,4 +167,8 @@ A structured collection of Data Structures, Algorithms, and Competitive Programm
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SuranjanVerma/Java-DSA-Vault/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
